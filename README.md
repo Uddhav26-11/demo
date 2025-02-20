@@ -1,4 +1,4 @@
 # demo
 This is my first GIT REPOSITORY.
 <br>
-Author:-UDDHAV CHOURASIYA(sehore)
+Author:-UDDHAV CHOURASIYA(sehore.)
